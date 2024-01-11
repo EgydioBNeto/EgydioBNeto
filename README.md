@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=EgydioBNeto&theme=dark&hide_border=true&border_radius=10&date_format=j%2Fn%5B%2FY%5D&card_width=500)](https://git.io/streak-stats)
 <!--
 **EgydioBNeto/EgydioBNeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
